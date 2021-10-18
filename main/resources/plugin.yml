@@ -1,0 +1,8 @@
+name: FastGensBadcoder
+version: '${project.version}'
+main: me.badcoder.fastgensbadcoder.FastGensBadcoder
+api-version: 1.16
+authors: [ Badcoder ]
+description: Badcoder's part of FastGens!
+depend:
+  - LuckPerms
